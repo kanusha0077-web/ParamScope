@@ -1,6 +1,7 @@
 # ParamScope
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/kanusha0077-web/ParamScope/blob/main/ParamScope.png) "ParamScope")
+![ParamScope](https://raw.githubusercontent.com/kanusha0077-web/ParamScope/main/ParamScope.png)
+
 
 **ParamScope** is a powerful Tampermonkey userscript that acts as a **parameter reconnaissance engine**.  
 It automatically discovers **hidden, visible, dynamic, static, and script-defined parameters** present in any webpage — including those buried in JavaScript, JSON, forms, cookies, meta tags, URL queries, and data attributes.
